@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "331145188526",
+    "project_id": "carmessaging-184a4",
+    "storage_bucket": "carmessaging-184a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331145188526:android:1bf5a5cece26b66406893f",
+        "android_client_info": {
+          "package_name": "com.neleso.audiocrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331145188526-nrfjpdq83rudoo00ppjf0u50maglm27i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnHZgs0-LH8jfDGF18O67Pug46mOFoWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331145188526-nrfjpdq83rudoo00ppjf0u50maglm27i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331145188526:android:da222ade5dfcf9fd06893f",
+        "android_client_info": {
+          "package_name": "org.neleso.carmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331145188526-nrfjpdq83rudoo00ppjf0u50maglm27i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhnHZgs0-LH8jfDGF18O67Pug46mOFoWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331145188526-nrfjpdq83rudoo00ppjf0u50maglm27i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

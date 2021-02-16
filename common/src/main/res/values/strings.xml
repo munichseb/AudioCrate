@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioCrate Automotive</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="media_player">Media Player</string>
+    <string name="sound_library">Vehicle Sound Directory</string>
+    <string name="vehicle_sounds">Vehicle Sounds</string>
+</resources>

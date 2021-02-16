@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_label">Settings</string>
+    <string name="pref_settings_label">Extensions</string>
+    <string name="pairing_label">Pairing</string>
+    <string name="state_of_charge_value">Current state of chage: </string>
+    <string name="vehicle_model">unknown vehicle model</string>
+
+    <string name="subscribe_to_measure">Subscribe To Measure</string>
+    <string name="log_token">Log Token</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">measure</string>
+    <string name="msg_subscribed">Subscribed to measure topic</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to measure topic</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    <string name="msg_no_data">"Message does not contain data</string>
+    <string name="fcm_message">FCM Message</string>
+
+
+</resources>

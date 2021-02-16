@@ -1,0 +1,3 @@
+include ':automotive'
+rootProject.name = "AudioCrate"
+include ':common'

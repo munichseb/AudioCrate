@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CarToolbar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTheme.Drawer" parent="Widget.MaterialComponents.Toolbar">
+        <item name="android:background">@style/CarToolbar</item>
+    </style>
+
+</resources>
