@@ -20,18 +20,6 @@
         android:layout="@layout/preference_category"
         android:title="@string/pref_settings_label">
 
-        <SwitchPreferenceCompat
-            android:defaultValue="false"
-            android:key="allow_backend_comms"
-            android:title="Enable remote app" />
-
-        <Preference
-            android:title="Device ID"
-            android:key="pref_uuid"
-            android:summary="unknown"
-            android:persistent="false"
-            />
-
     </PreferenceCategory>
 
 </androidx.preference.PreferenceScreen>
