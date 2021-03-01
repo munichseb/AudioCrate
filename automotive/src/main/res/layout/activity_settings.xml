@@ -33,12 +33,6 @@
         android:tint="#ffffffff"
         app:srcCompat="@drawable/ic_close_button" />
 
-    <FrameLayout
-        android:id="@+id/settings_container"
-        android:layout_width="match_parent"
-        android:layout_height="400dp"
-        android:background="@color/darkBackground" />
-
 
     <WebView
         android:id="@+id/settings_webview"
